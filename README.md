@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark
 - 🌱 I’m currently learning, constantly learning, will be learning till the grave...
-- 💞️ I’m working on understanding the Sky PayLite stuff
+- 💞️ I’m working on understanding the Persistence Engineering stuff
 
 <!---
 MXPowell/MXPowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
